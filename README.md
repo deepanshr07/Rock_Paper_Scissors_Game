@@ -9,3 +9,5 @@ You can access the game by running the program: [main,py](https://github.com/dee
 - Enter "r" for Rock
 - Enter "p" for Paper
 - Enter "s" for Scissors
+
+# The Computer Generates a random choice so its a fair game.
