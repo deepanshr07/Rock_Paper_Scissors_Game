@@ -1,4 +1,5 @@
 # 🪨Rock_Paper_Scissors_Game
 A basic rock, paper, scissors game that you probably played in your childhood.
 
-
+# Access the Game
+You can access the game by running the program: [main,py](https://github.com/deepanshr07/Rock_Paper_Scissors_Game/blob/main/main.py)
